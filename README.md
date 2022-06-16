@@ -1,4 +1,4 @@
-## Oiii eu sou Juan
+## Oi eu sou Juan
 <div align="center">
   <a href="https://github.com/JuanDosProgamas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juandosprogamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
